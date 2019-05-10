@@ -1,6 +1,6 @@
 public class Check
 {
-int a = 20;
+int a = 50;
 public static void main(String args[])
 {
 System.out.println(a);
