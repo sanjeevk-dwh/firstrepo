@@ -9,5 +9,6 @@ System.out.println(a);
 System.out.println(c);
 System.out.println(d);
 System.out.println("I am checking rebase");
+System.out.println("I am checking fetch");
 }
 }
